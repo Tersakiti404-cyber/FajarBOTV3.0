@@ -1,52 +1,55 @@
-# REUZ BOT
-BOT WHATSAPP HP REUZ
+## REUZSC
+BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
-### Alat dan Bahan
-Siapin alat dan bahannya.
-```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
-> aplikasi whatsapp
-> aplikasi termux
-> kopi
-```
 
-### Cara Installnya
-Sebelum lu jalanin sc nya install dulu lah.
+
+
+
+
+
+## CARA INSTALL
+# TERMUX
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/benisadewa/reuzbot.git
-> cd reuzbot
+> download termux
+> buka
+> pkg install git
+> pkg install ffmpeg
+> pkg install nodejs
+> apt update && apt upgrade
+> git clone https://github.com/benisadewa/reuzsc
+> cd reuzsc
 > bash install.sh
 > node index.js
-> Tinggal scan qr dah
 ```
 
-## Features
 
-| REUZ BOT      |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Sticker Creator                  |
-|       ✅       | Magernulis                       |
-|       ✅       | Pantun                           |
-|       ✅       | Youtube Downloader               |
-|       ✅       | Quotes                           |
-|       ✅       | Anime                            |
-|       ✅       | Suara Google                     |
-|       ✅       | Quran                            |
-|       ✅       | Youtube MP3 Downloader           |
-|       ✅       | Intagram Downloader              |
-|       ✅       | Twitter Downloader               |
-|       ✅       | Facebook Downloader              |
-|       ✅       | Wikipedia                        |
-|       ✅       | Say                              |
-|       ✅       | Info                             |
-|       ✅       | Donate                           |
+# FITUR
 
-## Special Thanks to
+| KEADAAN       |               FITUR     |
+| :-----------: | :--------------------------------:  |
+|       ✅       |    PANTUN                         |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | STICKER                           |
+|       ✅       | NULIS                             |
+|       ✅       | QUOTES                            |
+|       ✅       | RANDOM PICT                       |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | LIRIK                             |
+|       ✅       | ALAY                              |
+|       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
+|       ✅       | WIKIPEDIA                         |
+|       ✅       | ARTI NAMA                         |
+|       ✅       | SHOLAT                            |
+|       ✅       | QURAN                             |
+|       ✅       | KAMING SUN                        |
+
+ket : ✅ : aktif
+
+
+
+
+## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-### Donate
-GOPAY : 081271699856
+## DONASI
+* Gopay : 081271699856 Reuz
