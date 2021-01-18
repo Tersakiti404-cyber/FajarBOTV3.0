@@ -1061,10 +1061,10 @@ else if (text == '#foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' 🔍Thanks Telah Menggunakan BOT *Fajar Bot* , Follow Instagram Mimin Yah🔍� : https://instagram.com/ghlyhalamn' ,MessageType.text);
+conn.sendMessage(id, ' 🔍Thanks Telah Menggunakan BOT *Fajar Bot* , Follow Instagram Mimin Yah🔍� : https://instagram.com/mr.tersakiti_404' ,MessageType.text);
 }
 else if (text == '#info'){
-conn.sendMessage(id, ' 🔍Thanks Telah Menggunakan BOT *Fajar Bot* , Follow Instagram Mimin Yah🔍� : https://instagram.com/ghlyhalamn' ,MessageType.text);
+conn.sendMessage(id, ' 🔍Thanks Telah Menggunakan BOT *Fajar Bot* , Follow Instagram Mimin Yah🔍� : https://instagram.com/mr.tersakiti_404' ,MessageType.text);
 }
 if (messageType == 'imageMessage')
    {
