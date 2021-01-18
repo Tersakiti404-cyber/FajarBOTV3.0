@@ -1,8 +1,17 @@
-apt update && apt upgrade
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pkg install mc
+pkg install tesseract
+pkg install nodejs
 pkg install wget
 pkg install ffmpeg
-pkg install nodejs
+clear
+npm i -g ytdl
 npm i -g cwebp
-npm i -g ytdl 
-npm i
+npm i node-tesseract-ocr
 npm i got
+npm i
+clear
+echo "[*]udah selesai nih Ngentod. Tinggal ketik node index.js"
